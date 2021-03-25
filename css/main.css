@@ -834,7 +834,7 @@ header .logo a {
 	header .logo a {
 		background-image: url("../images/Logo.png");
 		-webkit-background-size: 100px 20px;
-		-moz-background-size: 126px 12px;
+		-moz-background-size: 100px 20px;
 		background-size: 126px 12px;
 	}
 }
